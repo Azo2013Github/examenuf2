@@ -1,0 +1,5 @@
+A,46146641Q,Laura,Gómez García,,0.0
+A,38113914Q,Javier,Pujol Serra,,0.0
+A,37769484B,Sara,Ramon Barnils,Fol,396.0
+A,36114578F,Luis,Moreno Fort,,0.0
+N,42169875G,Anna,Saladrigas Ruiz,,0.0

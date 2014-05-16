@@ -1,0 +1,5 @@
+Fol,66
+Programación,132
+Entornos de desarrollo,66
+Python,99
+Java,132
